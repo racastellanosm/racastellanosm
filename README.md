@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to ny Github Profile, below you can find also, my latest blog entries.
+Software Architect, Backend Developer and Former Engineering Manager, trying to do my developer work easier using the correct tools at the correct situation. 
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
