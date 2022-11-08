@@ -16,5 +16,6 @@ jobs:
           comment_tag_name: "BLOGPOSTS"
           feed_list: "https://blog.equationlabs.io/rss.xml"
           template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)"
+          max_post_count: 7
           commit_message: "recent posts section updated"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
