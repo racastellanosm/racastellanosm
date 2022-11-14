@@ -4,7 +4,7 @@ Software Architect, Backend Developer and Former Engineering Manager, trying to 
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Safely managing database migrations in k8s natively.](https://blog.equationlabs.io/safely-managing-database-migrations-in-k8s-natively)
+ - 💫 [Managing database migrations safely in high replicated k8s deployment.](https://blog.equationlabs.io/managing-database-migrations-safely-in-high-replicated-k8s-deployment)
  - 🌮 [How to build a CI/CD workflow with Skaffold for your application &lpar;Part III&rpar;](https://blog.equationlabs.io/how-to-build-a-cicd-workflow-with-skaffold-for-your-application-part-iii)
  - 💯 [How to build a CI/CD workflow with Skaffold for your application &lpar;Part II&rpar;](https://blog.equationlabs.io/how-to-build-a-cicd-workflow-with-skaffold-for-your-application-part-ii)
  - 🌮 [How to build a CI/CD workflow with Skaffold for your application &lpar;Part I&rpar;](https://blog.equationlabs.io/cicd-workflow-with-skaffold-for-your-application-part-i)
