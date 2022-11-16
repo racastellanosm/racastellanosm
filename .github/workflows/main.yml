@@ -14,7 +14,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "BLOGPOSTS"
-          feed_list: "https://blog.equationlabs.io/rss.xml"
+          feed_list: "https://dev.to/feed/rcastellanosm"
           template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)"
           max_post_count: 7
           commit_message: "recent posts section updated"
