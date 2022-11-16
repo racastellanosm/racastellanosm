@@ -1,4 +1,4 @@
-name: Hashnode Blog Posts
+name: Dev.to Blog Posts
 on:
   schedule:
     # Runs every 6 hours of the day
