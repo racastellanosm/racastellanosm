@@ -11,10 +11,7 @@ Software Architect, Backend Developer and Former Engineering Manager, trying to 
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Managing database migrations safely in high replicated k8s deployment.](https://blog.equationlabs.io/managing-database-migrations-safely-in-high-replicated-k8s-deployment)
- - 🌮 [How to build a CI/CD workflow with Skaffold for your application &lpar;Part III&rpar;](https://blog.equationlabs.io/how-to-build-a-cicd-workflow-with-skaffold-for-your-application-part-iii)
- - 💯 [How to build a CI/CD workflow with Skaffold for your application &lpar;Part II&rpar;](https://blog.equationlabs.io/how-to-build-a-cicd-workflow-with-skaffold-for-your-application-part-ii)
- - 🌮 [How to build a CI/CD workflow with Skaffold for your application &lpar;Part I&rpar;](https://blog.equationlabs.io/cicd-workflow-with-skaffold-for-your-application-part-i)
- - 🔥 [Una mini API para hacer benchmark de Symfony con RoadRunner &lpar;Parte II&rpar;](https://blog.equationlabs.io/una-mini-api-para-hacer-benchmark-de-symfony-con-roadrunner-parte-ii)
- - 🚀 [Una mini API para hacer benchmark de Symfony con RoadRunner &lpar;Parte I&rpar;](https://blog.equationlabs.io/una-mini-api-para-hacer-benchmark-de-symfony-con-roadrunner-parte-i)
- - 🔥 [Jugando con Jenkins y sus pipelines declarativos &lpar;y aprovechamos para conocer Blue Ocean&rpar;](https://blog.equationlabs.io/jugando-con-jenkins-y-sus-pipelines-declarativos-y-aprovechamos-para-conocer-blue-ocean)<!-- BLOGPOSTS:END -->
+ - 💫 [Managing database migrations safely in high replicated k8s deployment.](https://dev.to/rcastellanosm/managing-database-migrations-safely-in-high-replicated-k8s-deployment-4cbo)
+ - 🌮 [How to build a CI/CD workflow with Skaffold for your application &lpar;Part III&rpar;](https://dev.to/rcastellanosm/how-to-build-a-cicd-workflow-with-skaffold-for-your-application-part-iii-3625)
+ - 💯 [How to build a CI/CD workflow with Skaffold for your application &lpar;Part II&rpar;](https://dev.to/rcastellanosm/how-to-build-a-cicd-workflow-with-skaffold-for-your-application-part-ii-315j)
+ - 🌮 [How to build a CI/CD workflow with Skaffold for your application &lpar;Part I&rpar;](https://dev.to/rcastellanosm/how-to-build-a-cicd-workflow-with-skaffold-for-your-application-part-i-2df4)<!-- BLOGPOSTS:END -->
