@@ -9,7 +9,7 @@
 
 Software Architect, Backend Developer and Former Engineering Manager, trying to do my developer work easier using the correct tools at the correct situation. 
 
-### Currenlty Learning
+#### Currenlty Learning
 - [Rust](https://www.rust-lang.org)
 - [GoLang](https://www.google.com/search?client=safari&rls=en&q=golang&ie=UTF-8&oe=UTF-8)
 
