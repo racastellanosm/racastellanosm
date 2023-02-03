@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/raulcastellanos">Linkedin</a>
 </p>
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=racastellanosm)
+  <img src="https://komarev.com/ghpvc/?username=racastellanosm&style=flat-square"/>
 </p>
 
 Software Architect, Backend Developer and Former Engineering Manager, trying to do my developer work easier using the correct tools at the correct situation. 
