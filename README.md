@@ -22,3 +22,8 @@ Software Architect, Backend Developer and Former Engineering Manager, trying to 
  - 🔥 [How to build a CI/CD workflow with Skaffold for your application &lpar;Part I&rpar;](https://blog.equationlabs.io/cicd-workflow-with-skaffold-for-your-application-part-i)
  - 🚀 [Una mini API para hacer benchmark de Symfony con RoadRunner &lpar;Parte II&rpar;](https://blog.equationlabs.io/una-mini-api-para-hacer-benchmark-de-symfony-con-roadrunner-parte-ii)
  - 🔥 [Una mini API para hacer benchmark de Symfony con RoadRunner &lpar;Parte I&rpar;](https://blog.equationlabs.io/una-mini-api-para-hacer-benchmark-de-symfony-con-roadrunner-parte-i)<!-- BLOGPOSTS:END -->
+
+
+
+![](https://komarev.com/ghpvc/?username=racastellanosm)
+
