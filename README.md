@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  <a href="[https://www.equationlabs.io/](https://www.equationlabs.io?utm_source=github&utm_medium=personal-websites&utm_campaign=organic-referral-traffic&utm_content=profile-link)">Website</a> •
+  <a href="https://www.equationlabs.io?utm_source=github&utm_medium=personal-websites&utm_campaign=organic-referral-traffic&utm_content=profile-link">Website</a> •
   <a href="https://blog.equationlabs.io/">Blog</a> •
   <a href="https://twitter.com/rcastellanosm">Twitter</a> •
   <a href="https://www.linkedin.com/in/raulcastellanos">Linkedin</a>
