@@ -14,7 +14,8 @@ Software Architect, Backend Developer and Former Engineering Manager, trying to 
 
 #### Currenlty Learning
 - [Rust](https://www.rust-lang.org)
-- [GoLang](https://www.google.com/search?client=safari&rls=en&q=golang&ie=UTF-8&oe=UTF-8)
+- [GoLang](https://go.dev)
+- [Python](https://python.org/)
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
