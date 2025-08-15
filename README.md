@@ -12,10 +12,10 @@
 
 Software Architect, Backend Developer and Former Engineering Manager, trying to do my developer work easier using the correct tools at the correct situation. 
 
-#### Currenlty Learning
-- [Rust](https://www.rust-lang.org)
+#### Currenlty Working With
 - [GoLang](https://go.dev)
-- [Python](https://python.org/)
+- [PHP](https://php.net/)
+- [Python](https://pyton.org/)
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
